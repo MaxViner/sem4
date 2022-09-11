@@ -1,0 +1,15 @@
+C:\GeekBrains\С#\sem4\examole\bin\Debug\net6.0\examole.exe
+C:\GeekBrains\С#\sem4\examole\bin\Debug\net6.0\examole.deps.json
+C:\GeekBrains\С#\sem4\examole\bin\Debug\net6.0\examole.runtimeconfig.json
+C:\GeekBrains\С#\sem4\examole\bin\Debug\net6.0\examole.dll
+C:\GeekBrains\С#\sem4\examole\bin\Debug\net6.0\examole.pdb
+C:\GeekBrains\С#\sem4\examole\obj\Debug\net6.0\examole.csproj.AssemblyReference.cache
+C:\GeekBrains\С#\sem4\examole\obj\Debug\net6.0\examole.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#\sem4\examole\obj\Debug\net6.0\examole.AssemblyInfoInputs.cache
+C:\GeekBrains\С#\sem4\examole\obj\Debug\net6.0\examole.AssemblyInfo.cs
+C:\GeekBrains\С#\sem4\examole\obj\Debug\net6.0\examole.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#\sem4\examole\obj\Debug\net6.0\examole.dll
+C:\GeekBrains\С#\sem4\examole\obj\Debug\net6.0\refint\examole.dll
+C:\GeekBrains\С#\sem4\examole\obj\Debug\net6.0\examole.pdb
+C:\GeekBrains\С#\sem4\examole\obj\Debug\net6.0\examole.genruntimeconfig.cache
+C:\GeekBrains\С#\sem4\examole\obj\Debug\net6.0\ref\examole.dll
